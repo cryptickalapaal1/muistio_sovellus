@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/notes/65df009c66590d3e7251bc40 HTTP/1.1
+content-type: application/json
+
+{
+"title": "Päivitetty otsikko4",
+"content": "Päivitetty sisältö4"
+}
